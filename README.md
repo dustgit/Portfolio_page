@@ -18,7 +18,7 @@ _Feel free to contact Dustin.starke@gmail.com for all and any input._
 
 ## Technology Used
 
-_I have utilized Bootstrap stylesheet frontend frameworks to support my own custom styling. It incorporates Bootstrap v3.3.7_
+_I have utilized Bootstrap stylesheet frontend frameworks to support my own custom styling. It incorporates Bootstrap v3.3.7. I used a Bootstrap custom button style at the bottom of my page. I also included a google font called Lobster in order to stylize my name at the top of my page._
 ### License
 
 Copyright (c) 2018

@@ -6,6 +6,7 @@ body {
   margin-top: 30px;
   float: right;
   text-color: black;
+  background-color: #FCA017;
 }
 
 .sidebar {
@@ -20,14 +21,15 @@ body {
   margin-top: 35px;
   background-color: #d8d0de
 }
+
 .kapow {
   border: 2px solid green;
   padding: -4px;
   margin: 12px;
   background-color: purple;
   margin-left: 65px;
-
 }
+
 h1 {
   color: #1e8299;
   text-align: center;
@@ -39,6 +41,11 @@ h2 {
   font-weight: bold;
   text-align: center;
   font-family: inherit;
+}
+
+.planning {
+  font-style: normal;
+  font-weight: bolder;
 }
 
 #thirty-three {
@@ -81,7 +88,7 @@ p {
   font-weight: bold;
 }
 
-@media screen and (max-width: 768px) and (min width 425px) {
+@media screen and (max-width: 768px) {
   body {
     background-color: #5a3972;
     color: black;
