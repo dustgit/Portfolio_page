@@ -1,7 +1,14 @@
 body {
   background-color: #1e8299;
 }
+.sidebar{
+  float: left;
+  margin-left: 90px;
+}
 
+.well {
+
+}
 h1 {
   color: #1e8299;
   text-align: center;
@@ -13,7 +20,11 @@ h2 {
   font-weight: bold;
   text-align: center;
   font-family: inherit;
+
+.special {
+  color: yellow
 }
+
 img {
   float: right;
 }
