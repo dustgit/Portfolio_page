@@ -1,0 +1,34 @@
+body {
+  background-color: #1e8299;
+}
+
+h1 {
+  color: #1e8299;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-family: inherit;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 25px;
+  line-height: 35;
+}
+
+.highlight {
+  color: #003c51;
+  font-weight: bold;
+}
+
+@media query {
+
+}
