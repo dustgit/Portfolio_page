@@ -16,10 +16,12 @@ _{Still working out the media query to include the well which houses my links to
 
 _Feel free to contact Dustin.starke@gmail.com for all and any input._
 
+## Technology Used
 
+_I have utilized Bootstrap stylesheet frontend frameworks to support my own custom styling. It incorporates Bootstrap v3.3.7_
 ### License
 
-Copyright (c) 2018 **_{Dustin Starke}_**
+Copyright (c) 2018
 MIT License
 
 Copyright (c) [2018] **_[DustinStarke]_**

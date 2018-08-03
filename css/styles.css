@@ -74,8 +74,8 @@ p {
   font-weight: bold;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) and (min width 425px) {
   body {
     background-color: #5a3972;
-    color: white;
+    color: black;
 }
