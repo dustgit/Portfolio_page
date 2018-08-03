@@ -20,7 +20,14 @@ body {
   margin-top: 35px;
   background-color: #d8d0de
 }
+.kapow {
+  border: 2px solid green;
+  padding: -4px;
+  margin: 12px;
+  background-color: purple;
+  margin-left: 65px;
 
+}
 h1 {
   color: #1e8299;
   text-align: center;
